@@ -37,3 +37,4 @@ C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\TelecallUnisuamCRUD\Tel
 C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\TelecallUnisuamCRUD\TelecallUnisuamCRUD\obj\Debug\net5.0\TelecallUnisuamCRUD.genruntimeconfig.cache
 C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\TelecallUnisuamCRUD\TelecallUnisuamCRUD\obj\Debug\net5.0\ref\TelecallUnisuamCRUD.dll
 C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\TelecallUnisuamCRUD\TelecallUnisuamCRUD\obj\Debug\net5.0\TelecallUnisuamCRUD.csproj.CopyComplete
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\TelecallUnisuamCRUD\TelecallUnisuamCRUD\obj\Debug\net5.0\Razor\Views\TESTE.cshtml.g.cs
